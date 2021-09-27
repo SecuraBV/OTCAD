@@ -1,7 +1,7 @@
 # Operational Technology Cyber Attack Database (OTCAD)
 OTCAD is a database of cyber attacks on OT/ICS mapped to MITRE's [ATT&CK® for ICS](https://collaborate.mitre.org/attackics/index.php/Main_Page) (v8). The database is easily extendable and adjustable through the use of both new and existing tools. Its main goal is to quickly get statistical, historical, and categorized data that can also be publicly confirmed. Using OTCAD should be effortless through the usage of ATT&CK for ICS' widely used terminology and existing tools.
 
-The whitepaper that presents and discusses OTCAD in depth will be released very soon. This whitepaper also contains the methodology and information sources used to build the initial release of OTCAD.
+The whitepaper that presents and discusses OTCAD in depth can be found [here](https://www.secura.com/whitepapers/otcad). This whitepaper also contains the methodology and information sources used to build the initial release of OTCAD.
 
 
 ## The database
