@@ -1,0 +1,1381 @@
+[
+    {
+        "name": "PLC Password Change",
+        "year": 1988,
+        "industry": "Pulp and Paper",
+        "sources": [
+            "The Myths and Facts behind Cyber Security Risks for Industrial Control Systems, E Byres"
+        ],
+        "guid": "bf1398ad-461a-45d8-98b2-c4b9e6ac2222",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Computer Sabotage at Nuclear Power Plant",
+        "year": 1992,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.chathamhouse.org/sites/default/files/field/field_document/20151005CyberSecurityNuclearBaylonBruntLivingstone.pdf"
+        ],
+        "guid": "e1cec836-15fb-4e0f-86e3-8e486fbc3918",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Salt River Project Hack",
+        "year": 1994,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://pdfs.semanticscholar.org/1f8f/a134eca5fe92143bd154ec9f6446b38b63ae.pdf"
+        ],
+        "guid": "dd8231fa-ac07-4497-83ac-5cc0054c118b",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Omega Engineering Sabotage",
+        "year": 1996,
+        "industry": "Electronic Manufacturing",
+        "sources": [
+            "http://edition.cnn.com/2000/TECH/computing/06/27/omega.files.idg/"
+        ],
+        "guid": "862c43f2-e51c-46db-8877-6f9a7370d399",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Worcester Air Traffic Communications System Hack",
+        "year": 1997,
+        "industry": "Transportation",
+        "sources": [
+            "http://edition.cnn.com/TECH/computing/9803/18/juvenile.hacker/index.html",
+            "http://www.irational.org/APD/CCIPS/juvenilepld.htm"
+        ],
+        "guid": "147fef66-358a-4e2b-80de-d06920e3a419",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Power Outages and Other Service Interruptions",
+        "year": 1999,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/power_outages_and_other_service_interruptions"
+        ],
+        "guid": "bcd3fda2-cdd4-4201-a76a-d2a3ab6d3a50",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Maroochy Shire Sewage Spill",
+        "year": 2000,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.mitre.org/sites/default/files/pdf/08_1145.pdf"
+        ],
+        "guid": "2dff520b-2394-454d-8dce-d5fa0e75ffff",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Nimda Impact on Manufacturing System",
+        "year": 2001,
+        "industry": "Food & Beverage",
+        "sources": [
+            "https://www.f-secure.com/v-descs/nimda.shtml"
+        ],
+        "guid": "5547fe95-e3cf-4cab-aa96-f22f5f7d784f",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "DoS Attack Shuts Down Port of Houston",
+        "year": 2001,
+        "industry": "Transportation",
+        "sources": [
+            "https://cardozoaelj.com/wp-content/uploads/Journal%20Issues/Volume%2024/Issue%201/Edwards.pdf",
+            "https://www.zdnet.com/article/revenge-hack-downed-us-port-systems/"
+        ],
+        "guid": "15a4babe-ae38-41ef-8aed-76f0551c79a8",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Code Red Worm Defaces Automation Web Pages",
+        "year": 2001,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/code-red-worm-defaces-automation-web-pages"
+        ],
+        "guid": "b1c4b7da-8037-46d7-a128-4218174cc2cc",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Hackers Target Cal - ISO System",
+        "year": 2001,
+        "industry": "Power and Utilities",
+        "sources": [
+            "Hackers Victimize Cal-ISO, La Times, accessed 17/03/2021",
+            "https://www.sans.org/reading-room/whitepapers/hackers/hackers-turn-lights-off-vulnerability-power-grid-electronic-attack-606"
+        ],
+        "guid": "646fd6b7-a61c-49a7-bd48-f76e3a0d3858",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Hackers Crash Controller via Web Service",
+        "year": 2002,
+        "industry": "Electronic Manufacturing",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/hackers-crash-controller-via-web-service"
+        ],
+        "guid": "b9af79b8-ff4e-42d8-b3a3-870acaee06db",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Hacker Changes Chemical Plant Set Points via Modem",
+        "year": 2002,
+        "industry": "Chemical",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/hacker-changes-chemical-plant-set-points-via-modem"
+        ],
+        "guid": "f3ce8482-c06b-4eaa-8f14-64bb420bfe79",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Virus Infection of Operator Training Simulator",
+        "year": 2002,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/virus-infection-of-operator-training-simulator"
+        ],
+        "guid": "c09190b6-8016-4f94-96ce-83fe997292d6",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Ski Gondola Worker Shutdown Control System",
+        "year": 2002,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/ski-gondola-worker-shutdown-control-system"
+        ],
+        "guid": "5c20b9fd-4030-4063-acfc-e9a5f1b38bc4",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Electronic Sabatoge of Venezuela Oil Operations",
+        "year": 2002,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.sia-partners.com/en/news-and-publications/from-our-experts/cybersecurity-energy-implications-security-breach-oil-gas 17/03/2021",
+            "https://www.tofinosecurity.com/sites/default/files/Cyber_Security_and_The_Pipeline_PGJ_Feb_2009.pdf"
+        ],
+        "guid": "c965d41d-36d1-4e12-b140-34748f6edeb6",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Sobig Virus Strikes CSX Train Signalling System",
+        "year": 2003,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.cbsnews.com/news/virus-disrupts-train-signals/ ",
+            "https://www.f-secure.com/v-descs/sobig.shtml"
+        ],
+        "guid": "24344093-e2ce-4357-b724-e28d259e371f",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Power Industry Slammer #2",
+        "year": 2003,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/power-industry-slammer-2",
+            "https://www.f-secure.com/v-descs/mssqlm.shtml"
+        ],
+        "guid": "6cf89a31-4530-4f7b-850c-5c3c1484ca19",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Power Industry Slammer #1",
+        "year": 2003,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/power-industry-slammer-1",
+            "https://www.f-secure.com/v-descs/mssqlm.shtml"
+        ],
+        "guid": "5b78b5e3-e1ad-43e5-9f72-1e1d2dc4deca",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Slammer Worm Hits Major US Auto Manufacturer",
+        "year": 2003,
+        "industry": "Automotive",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/slammer_worm_hits_major_us_auto_manufacturer",
+            "https://www.f-secure.com/v-descs/mssqlm.shtml"
+        ],
+        "guid": "ca8ae9c6-912d-46af-90b3-a6a40aa223a5",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Virus Shuts Down AC Jazz Airline Flight Planning Computer",
+        "year": 2003,
+        "industry": "Transportation",
+        "sources": [
+            "https://edition.cnn.com/2003/TECH/internet/08/21/sobig.virus/index.html",
+            "https://www.f-secure.com/v-descs/sobig.shtml"
+        ],
+        "guid": "4b5f740c-c2cb-4123-aebb-308f62e7fadf",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Nacchi Virus Infects Air Canada Check-In System",
+        "year": 2003,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/nacchi-virus-infects-air-canada-check-in-system"
+        ],
+        "guid": "216000ae-a324-4702-b6fc-0dc51d4c3c50",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Slammer Impact on Ohio Nuclear Plant",
+        "year": 2003,
+        "industry": "Power and Utilities",
+        "sources": [
+            "http://large.stanford.edu/courses/2015/ph241/holloway2/",
+            "https://www.f-secure.com/v-descs/mssqlm.shtml"
+        ],
+        "guid": "ce3f4aea-a35e-49c7-8a4e-1f0976df0bfb",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Infected New HMI Infects Chemical Plant DCS",
+        "year": 2003,
+        "industry": "Chemical",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/infected-new-hmi-infects-chemical-plant-dcs"
+        ],
+        "guid": "7a8c70af-38ea-4219-9849-dcb399700137",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Blaster Worm Infects Chemical Plant",
+        "year": 2003,
+        "industry": "Chemical",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/blaster-worm-infects-chemical-plant"
+        ],
+        "guid": "1cdfd537-87c8-4a9b-a51e-41bb4f9d61d9",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Blaster Infects Onshore Oil Production Control System",
+        "year": 2003,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/blaster-infects-onshore-oil-production-control-system"
+        ],
+        "guid": "81061f81-fd88-4a06-87e4-59c68852bb0d",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Welchia Worm Infects Automation Network",
+        "year": 2003,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/welchia-worm-infects-automation-network"
+        ],
+        "guid": "0f2b094d-cf7e-453f-9a52-592ab063448c",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Paper Company Control System Hit By Blaster",
+        "year": 2003,
+        "industry": "Pulp and Paper",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/paper-company-control-system-hit-by-blaster"
+        ],
+        "guid": "da8b090f-70fc-41e1-a7bb-fb564d131204",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Baseline Audit Uncovers Virus in Water Control System",
+        "year": 2003,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/baseline-audit-uncovers-virus-in-water-control-system"
+        ],
+        "guid": "a9339656-19d1-40d0-ab48-27039d3dc19e",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Nachi Worm on Advanced Process Control Servers",
+        "year": 2003,
+        "industry": "Chemical",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/nachi-worm-on-advanced-process-control-servers"
+        ],
+        "guid": "37c4999e-2d4c-43b8-94b6-664f63c99073",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Slammer Impacts Offshore Platforms",
+        "year": 2003,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/slammer-impacts-offshore-platforms"
+        ],
+        "guid": "f2519046-788f-4ff7-ab1c-d389377b75bc",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "SQL Slammer Impacts Drill Site",
+        "year": 2003,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/sql-slammer-impacts-drill-site"
+        ],
+        "guid": "0c832965-594f-4e76-bbc0-d00c3c44e4eb",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Slammer Infected Laptop Shuts Down DCS",
+        "year": 2003,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/slammer-infected-laptop-shuts-down-dcs",
+            "https://www.f-secure.com/v-descs/mssqlm.shtml"
+        ],
+        "guid": "b3719702-02a5-41ad-b0d9-a27d2b1ce164",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Blaster Impacts HMI Stations in Smelter",
+        "year": 2003,
+        "industry": "Metals",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/blaster-impacts-hmi-stations-in-smelter"
+        ],
+        "guid": "fd71de83-8c93-4bd7-8798-f9f4900bfb15",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Exel Transportation services hack",
+        "year": 2004,
+        "industry": "Transportation",
+        "sources": [
+            "https://news.softpedia.com/news/61-Year-Old-From-Texas-Convicted-For-Hacking-into-Former-Employer-s-Network-334276.shtml"
+        ],
+        "guid": "f62bbeb6-2255-41e3-81a3-45df58cea588",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Backdoor Trojan Attack on Manufacturing Lab",
+        "year": 2004,
+        "industry": "Electronic Manufacturing",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/backdoor-trojan-attack-on-manufacturing-lab"
+        ],
+        "guid": "50f2d338-f33b-4d9a-ad5e-4aa36d514157",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Unauthorized Connection Permits Sasser Infection",
+        "year": 2004,
+        "industry": "Unknown",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/unauthorized-connection-permits-sasser-infection"
+        ],
+        "guid": "244d7550-7026-49e6-a4cc-b139f006946a",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Korgo Worm Infects 20 Workstations",
+        "year": 2004,
+        "industry": "Unknown",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/korgo-worm-infects-20-workstations"
+        ],
+        "guid": "b4cd112f-a14b-4218-8fed-1494a2e867d7",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Sasser Infection from the Enterprise Network",
+        "year": 2004,
+        "industry": "Other",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/Sasser_Infection_from_the_Enterprise_Network"
+        ],
+        "guid": "e38d7447-0c94-425f-9b5e-5dea4e246151",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Trojan Backdoor on Water SCADA System",
+        "year": 2004,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/trojan-backdoor-on-water-scada-system"
+        ],
+        "guid": "dfdfb248-7c1d-4be0-b939-4977aa5b7972",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Worm attack on Drilling Control system",
+        "year": 2004,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/worm-attack-on-drilling-control-system"
+        ],
+        "guid": "8cf05c89-ae2b-466b-ab5f-543cb222a1c5",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Sasser Worm Causes Loss of View in Chemicals Plant",
+        "year": 2004,
+        "industry": "Chemical",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/sasser-worm-infection-in-process-control-system",
+            "https://www.f-secure.com/v-descs/sasser.shtml"
+        ],
+        "guid": "b8b6c09c-4f45-4a5a-914c-9a4055ae2f0f",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Sasser Worm Hits British Airways",
+        "year": 2004,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.zdnet.com/article/virus-update-sasser-grounds-ba-as-hype-takes-hold/",
+            "https://www.f-secure.com/v-descs/sasser.shtml"
+        ],
+        "guid": "a85d088f-8b4d-4a2f-8e2a-63f46159c37d",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Two Viruses Cause Near Miss With Process Control Networks (PCN) in Africa",
+        "year": 2004,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/two-viruses-cause-near-miss-with-process-control-networks-pcn-in-africa"
+        ],
+        "guid": "afee4378-b128-4aea-abb6-e53875541b99",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "SCADA Workstation Infected by W32/Korgo Worm",
+        "year": 2004,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/scada-workstation-infected-by-w32-korgo-worm",
+            "https://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/W32~Korgo-Q/detailed-analysis.aspx"
+        ],
+        "guid": "495ba7e4-7c68-465f-9bd6-f3e29a9d0d2b",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Sasser Worm Infection in Process Control System",
+        "year": 2004,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/sasser-worm-infection-in-process-control-system",
+            "https://www.f-secure.com/v-descs/sasser.shtml"
+        ],
+        "guid": "e3837dd6-fbe2-4604-a4c0-04364e7d8e6a",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "UK Maritime and Coastguard Agency Hit by Sasser Worm",
+        "year": 2004,
+        "industry": "Other",
+        "sources": [
+            "http://news.bbc.co.uk/2/hi/technology/3682803.stm",
+            "https://www.f-secure.com/v-descs/sasser.shtml"
+        ],
+        "guid": "1c614b91-fb91-43ca-b5eb-e9507d0ce7db",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Routine Audit of SCADA Laptop Identifies Virus",
+        "year": 2005,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/routine-audit-of-scada-laptop-identifies-virus"
+        ],
+        "guid": "fb912716-7d65-43d0-9ae3-9d702acf62bc",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "E-Tag Incident",
+        "year": 2005,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/e-tag-incident"
+        ],
+        "guid": "80f48ade-3e03-4087-bd02-ecb297b9b2ea",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Zotob, PnP Worms Hit 13 Automotive Manufacturing Plants",
+        "year": 2005,
+        "industry": "Automotive",
+        "sources": [
+            "https://www.eweek.com/security/zotob-pnp-worms-slam-13-daimlerchrysler-plants/ 19/03/2021",
+            "https://www.f-secure.com/v-descs/zotob_a.shtm"
+        ],
+        "guid": "2066efcb-1ab1-4c7a-a238-50584ac3116e",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Cancer Treatment Delayed by Virus",
+        "year": 2006,
+        "industry": "Other",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/cancer_treatment_delayed_by_virus"
+        ],
+        "guid": "fe49b966-db61-4f03-8760-da098bf430e6",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Power Plant Security Information Leaked Onto Internet",
+        "year": 2006,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.baselinemag.com/c/a/Projects-Security/Security-Breach-Power-Plants-Data-Leaks-Onto-Net"
+        ],
+        "guid": "4f014ab3-4fee-41e7-918b-434a3513c0e6",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Trojan Found on SCADA Server",
+        "year": 2006,
+        "industry": "General Manufacturing",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/trojan_found_on_scada_server"
+        ],
+        "guid": "54a9905c-4826-4a62-abf0-70f99e0369ea",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Engineers Hack into Los Angeles Traffic Signal Computer",
+        "year": 2006,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.computerworld.com/article/2549204/two-charged-with-hacking-la-traffic-lights.html"
+        ],
+        "guid": "ba5ad24b-a07f-4059-9798-4fa09900c3d6",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Power Network Survives Virus Attack",
+        "year": 2006,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/power_network_survives_virus_attack",
+            "https://www.f-secure.com/v-descs/nyxem_e.shtml"
+        ],
+        "guid": "3e535e13-2d95-40cd-9a0b-06cb616d51fa",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Pennsylvania Water Company Hack",
+        "year": 2006,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.computerworld.com/article/2547938/hackers-break-into-water-system-network.html"
+        ],
+        "guid": "ae6eb76f-d311-4fdf-9a32-f48aa448fca3",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "California Canal System Hack",
+        "year": 2007,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.computerworld.com/article/2540235/insider-charged-with-hacking-california-canal-system.html"
+        ],
+        "guid": "10ec3019-76a1-4484-b1a1-b37b8cdc8596",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Former System Administrator Sentenced for Wrecking Corporate Servers",
+        "year": 2007,
+        "industry": "General Manufacturing",
+        "sources": [
+            "https://www.csoonline.com/article/2123366/former-worker-sentenced-for-wrecking-servers.html"
+        ],
+        "guid": "da71191e-b47a-4a0d-a66f-6903212236f8",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Schoolboy Hacks into Polish Tram System",
+        "year": 2008,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.itnews.com.au/news/teenager-hacks-polish-tram-system-100838"
+        ],
+        "guid": "c48fe913-d2f9-4fd7-94a5-454aed6b581e",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Computer Virus Infects Three London Hospitals",
+        "year": 2008,
+        "industry": "Other",
+        "sources": [
+            "https://www.networkworld.com/article/2261723/nhs-worm-infection-was--entirely-avoidable---says-review.amp.html"
+        ],
+        "guid": "f9768ff1-edd0-48b3-b81c-0bbba50e7b95",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Car Manufacturer Infected with Computer Virus",
+        "year": 2008,
+        "industry": "Automotive",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/car_manufacturer_infected_with_computer_virus"
+        ],
+        "guid": "b4567d25-264b-4a3f-8c96-3320cedf3af0",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Hacker Activates Emergency Sirens",
+        "year": 2008,
+        "industry": "Other",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/hacker_activates_emergency_sirens"
+        ],
+        "guid": "2f361a62-dc02-4d1c-a16d-cb15c6d9e216",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Dow Chemical company Operation Aurora",
+        "year": 2009,
+        "industry": "Chemical",
+        "sources": [
+            "https://github.com/vz-risk/vcdb"
+        ],
+        "guid": "4c959249-a832-4b40-814c-c9226b663f41",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Environmental Southland Target of Cyber Vandals",
+        "year": 2009,
+        "industry": "Other",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/environmental_southland_target_of_cyber_vandals"
+        ],
+        "guid": "6408741d-964a-4a7d-b775-6f5fd2fbff57",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Texas Road Sign Hack",
+        "year": 2009,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.wired.com/2009/02/austin-road-sig/"
+        ],
+        "guid": "d7a79d9e-9c01-4d0e-8cfc-b8d34ba2dafc",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Hospital HVAC Hack",
+        "year": 2009,
+        "industry": "Other",
+        "sources": [
+            "https://www.wired.com/2011/03/ghostexodus-2/"
+        ],
+        "guid": "ed1f5b16-88ba-4765-8669-bfb02e4ef556",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Texas Power Company Hack",
+        "year": 2009,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.wired.com/2009/05/efh/"
+        ],
+        "guid": "43f4881b-44e2-4ce7-96f8-3a4c98b99c15",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "PC_SALITY.EN Virus Infects DCS Servers and Historians",
+        "year": 2009,
+        "industry": "Chemical",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/pc_sality.en_virus_infects_dcs_servers_and_historians"
+        ],
+        "guid": "32289225-1d17-42ae-b630-316753a20777",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Energy Company Virus Attack",
+        "year": 2009,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.zdnet.com/article/virus-hits-integral-energy-desktops/"
+        ],
+        "guid": "80021b34-470d-4f06-8e38-edbb9fb38167",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Computer Virus Strikes Two Scottish Hospitals",
+        "year": 2009,
+        "industry": "Other",
+        "sources": [
+            "https://www.theregister.com/Print/2009/03/09/scot_hostpitals_malware_infection/",
+            "https://www.theregister.com/2009/01/20/sheffield_conficker",
+            "https://www.f-secure.com/v-descs/worm_w32_downadup_a.shtml"
+        ],
+        "guid": "a13885dd-5a8d-4335-8265-37fb703ba94b",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Hacker Disabled Offshore Oil Platforms",
+        "year": 2009,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.wired.com/2009/03/feds-hacker-dis/",
+            "https://www.wired.com/images_blogs/threatlevel/files/azar.pdf"
+        ],
+        "guid": "0a24a0c9-8184-4281-8505-380f5ac6b0ae",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Malware Shuts Down Milling Factory",
+        "year": 2010,
+        "industry": "General Manufacturing",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/malware-shuts-down-milling-factory",
+            "https://collaborate.mitre.org/attackics/index.php/Software/S0010"
+        ],
+        "guid": "a0480978-baa8-4919-aa5c-54bbd3c6e807",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Malware Targets Uranium Enrichment Facility",
+        "year": 2010,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/malware_targets_uranium_enrichment_facility",
+            "https://collaborate.mitre.org/attackics/index.php/Software/S0010"
+        ],
+        "guid": "0c7720ef-e085-4d10-aa74-ba08313293ae",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Disgruntled Employee Remotely Disables Cars using the Webtech Plus System",
+        "year": 2010,
+        "industry": "Automotive",
+        "sources": [
+            "https://www.csmonitor.com/Technology/Horizons/2010/0318/Disgruntled-hacker-remotely-disables-100-cars",
+            "https://www.wired.com/2010/03/hacker-bricks-cars/"
+        ],
+        "guid": "823004ec-00da-4b8c-90dd-e46f31521551",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Night dragon attacks",
+        "year": 2011,
+        "industry": "Petroleum",
+        "sources": [
+            "Global Energy Cyberattacks: Night Dragon - McAfee"
+        ],
+        "guid": "4660fad9-a3da-4a2a-aeb6-cab272087f99",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Hacker froze operations at pharmaceutical company",
+        "year": 2011,
+        "industry": "Pharmaceutical",
+        "sources": [
+            "https://www.inforisktoday.com/guilty-plea-in-drug-company-hack-a-3968",
+            "https://www.wired.com/images_blogs/threatlevel/2011/08/Jason-Cornish-Complaint.pdf"
+        ],
+        "guid": "6f39b3f0-5d6b-44f6-b808-76e3fe323b94",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Malware Shuts Down Hospital",
+        "year": 2011,
+        "industry": "Other",
+        "sources": [
+            "https://nakedsecurity.sophos.com/2011/12/13/malware-shuts-down-hospital-near-atlanta-georgia/"
+        ],
+        "guid": "1b42d04e-8650-4612-a2b1-a3b34ff9ab54",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Steel plant infected with Conficker",
+        "year": 2011,
+        "industry": "Metals",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/steel_plant_infected_with_conifcker",
+            "https://www.f-secure.com/v-descs/worm_w32_downadup_a.shtml"
+        ],
+        "guid": "6a8726c8-8958-4e5b-a3f4-1f50d95ed1f1",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Flame attack on Iranian oil ministry",
+        "year": 2012,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.computerworld.com/article/2503678/attacks-on-iranian-oil-industry-led-to-flame-malware-find.html",
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=aa61045b-886c-4a03-945c-d7993c5d39dd&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments"
+        ],
+        "guid": "7cd00c38-74ee-4c31-b143-27e23da94e99",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Wastewater Treatment District Hacked",
+        "year": 2012,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "http://floridakeyssheriff.blogspot.com/2012/03/key-west-man-charged-with-illegally.html"
+        ],
+        "guid": "84ea7228-c550-46a6-a209-f2be9880095d",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Industrial Control System Hacked Using Backdoor Posted Online",
+        "year": 2012,
+        "industry": "Other",
+        "sources": [
+            "https://info.publicintelligence.net/FBI-AntisecICS.pdf"
+        ],
+        "guid": "169731c2-7e7c-40a1-a7d1-7ce630550ce9",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Aramco hit by Shamoon",
+        "year": 2012,
+        "industry": "Petroleum",
+        "sources": [
+            "https://money.cnn.com/2015/08/05/technology/aramco-hack/",
+            "https://core.ac.uk/download/pdf/322474772.pdf",
+            "http://www.symantec.com/connect/blogs/shamoon-attacks"
+        ],
+        "guid": "1f2571ba-631f-4e7f-a3b3-bc1523c8db5d",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "U. S. Electric Utility Virus Infection",
+        "year": 2012,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://web.archive.org/web/20130116212835/https://www.us-cert.gov/control_systems/pdf/ICS-CERT_Monthly_Monitor_Oct-Dec2012.pdf"
+        ],
+        "guid": "7cfd555e-01b3-48dc-8ca6-cd9d0e4efd33",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "U. S. Power Plant Infected With Malware",
+        "year": 2012,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/u._s._power_plant_infected_with_malware"
+        ],
+        "guid": "2fd756e5-651c-4082-8695-3adcf4646e2e",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Process Control Network Infected with a Virus",
+        "year": 2012,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/process_control_network_infected_with_a_virus"
+        ],
+        "guid": "1d920659-c1e3-48cd-b53d-eb1afb47cde6",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Gas Company Virus Infection",
+        "year": 2012,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.risidata.com/Database/Detail/gas_company_virus_infection"
+        ],
+        "guid": "b6e34ee4-2493-4835-8e67-22cfe596035e",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Telvent Canada Firewall Breach",
+        "year": 2012,
+        "industry": "General Manufacturing",
+        "sources": [
+            "https://krebsonsecurity.com/2012/09/chinese-hackers-blamed-for-intrusion-at-energy-industry-giant-telvent/"
+        ],
+        "guid": "dde1b79c-ea6e-4c74-89fd-8151b849d847",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Iranian Oil Terminal offline after malware attack",
+        "year": 2012,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.reuters.com/article/us-iran-oil-cyber-idUSBRE83M0YX20120423"
+        ],
+        "guid": "32b36c49-80ad-4131-a7ba-7bfa28ba444f",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Toyota contractor information theft",
+        "year": 2012,
+        "industry": "Automotive",
+        "sources": [
+            "https://www.wired.com/images_blogs/threatlevel/2012/08/Toyota_Shahulhameed_Complaint.pdf"
+        ],
+        "guid": "34d0392d-9f18-45ef-998c-1f625c07fd29",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Shamoon virus knocks out computers at Qatari gas firm RasGas",
+        "year": 2012,
+        "industry": "Petroleum",
+        "sources": [
+            "http://wired.com/2012/08/hack-attack-strikes-rasgas/",
+            "http://www.symantec.com/connect/blogs/shamoon-attacks"
+        ],
+        "guid": "bf70ac4e-8840-4d32-9450-5733b2225fcf",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Irainian cyber attack on new york dam",
+        "year": 2013,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://time.com/4270728/iran-cyber-attack-dam-fbi/",
+            "https://www.justice.gov/opa/file/834996/download"
+        ],
+        "guid": "1cb89c03-a3ac-4fcf-8a78-91b77aa9c77d",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Cyber attack Port of antwerp",
+        "year": 2013,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.seatrade-maritime.com/europe/antwerp-incident-highlights-maritime-it-security-risk",
+            "https://www.bbc.com/news/world-europe-24539417"
+        ],
+        "guid": "ed72e8a0-6564-4687-9914-bca87b40ca78",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Chinese citizen sentenced in military data-theft case",
+        "year": 2013,
+        "industry": "Other",
+        "sources": [
+            "https://www.washingtonpost.com/world/national-security/chinese-citizen-sentenced-in-military-data-theft-case/2013/03/25/dc4567fa-9593-11e2-ae32-9ef60436f5c1_story.html"
+        ],
+        "guid": "af4e82d9-7219-438a-8707-0e08b1429c53",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Israeli tunnel hit by cyber attack",
+        "year": 2013,
+        "industry": "Transportation",
+        "sources": [
+            "https://eu.usatoday.com/story/tech/2013/10/27/ap-exclusive-israeli-tunnel-hit-by-cyber-attack/3281133/"
+        ],
+        "guid": "1d7b53bc-0fb0-45bc-9fdf-fdf045224b4a",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Hyundai Merchant Marine Kimsuky APT attack",
+        "year": 2013,
+        "industry": "Transportation",
+        "sources": [
+            "https://securelist.com/the-kimsuky-operation-a-north-korean-apt/57915/",
+            "https://attack.mitre.org/groups/G0094/"
+        ],
+        "guid": "60b6eaf3-7b13-47d2-9fd1-e6b8c51b85a2",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Virus shuts down county highway department network",
+        "year": 2013,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.nbcchicago.com/news/local/virus-causes-massive-shutdown-at-cook-county-highway-department/1959675"
+        ],
+        "guid": "c24492c5-aed6-474a-8252-4ec6bce1c2cc",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "TGB water station hacks",
+        "year": 2014,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.bleepingcomputer.com/news/security/fired-employee-hacks-and-shuts-down-smart-water-readers-in-five-us-cities/"
+        ],
+        "guid": "a578cd69-4ba0-456a-b293-981b4399184d",
+        "attackType": "Disgruntled Employee"
+    },
+    {
+        "name": "Control systems device remotely accessed by threat actor",
+        "year": 2014,
+        "industry": "Unknown",
+        "sources": [
+            "https://web.archive.org/web/20140923170256/https://ics-cert.us-cert.gov/sites/default/files/Monitors/ICS-CERT_Monitor_%20Jan-April2014.pdf"
+        ],
+        "guid": "d35b7f52-1ec3-4852-95ab-19b7820bc5a7",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Public utility compromised after brute-force hack attack, says Homeland Security",
+        "year": 2014,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://web.archive.org/web/20140923170256/https://ics-cert.us-cert.gov/sites/default/files/Monitors/ICS-CERT_Monitor_%20Jan-April2014.pdf"
+        ],
+        "guid": "283a194c-92c4-4bc6-aa29-0f824131238f",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "German Steel Mill Cyber Attack",
+        "year": 2014,
+        "industry": "Metals",
+        "sources": [
+            "https://ics.sans.org/media/ICS-CPPE-case-Study-2-German-Steelworks_Facility.pdf"
+        ],
+        "guid": "bd9478c1-4158-42e8-96cf-f2ad4e228e51",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Russian-Based Dragonfly Group Attacks Energy Industry",
+        "year": 2014,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.bbc.com/news/technology-28106478",
+            "https://attack.mitre.org/groups/G0035/",
+            "https://attack.mitre.org/software/S0093/"
+        ],
+        "guid": "6f9c6c61-f155-4a42-8602-6ec1ae360470",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Goatse image on billboards in Atlanta",
+        "year": 2015,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.bbc.com/news/technology-32826351"
+        ],
+        "guid": "da39bd5c-c4db-47c6-b52a-6b58ee6e806e",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Ukraine BlackEnergy 3 power grid attack",
+        "year": 2015,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.boozallen.com/content/dam/boozallen/documents/2016/09/ukraine-report-when-the-lights-went-out.pdf"
+        ],
+        "guid": "c8e89e94-37e3-4cb7-b131-faefdf8396aa",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Israeli Power Grid Massive cyber attack",
+        "year": 2016,
+        "industry": "Power and Utilities",
+        "sources": [
+            "Study on the Evaluation of Risks of Cyber-Incidents and on Costs of Preventing Cyber-Incidents in the Energy Sector - Ecofys"
+        ],
+        "guid": "73d78991-1676-42a0-a2b5-fc67dfeb45f2",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Return of Shamoon",
+        "year": 2016,
+        "industry": "Petroleum",
+        "sources": [
+            "History of Industrial Control System Cyber Incidents - Idaho National Laboratory"
+        ],
+        "guid": "86f47314-b9d4-46c1-9495-1054246a2eb8",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Drinking water utility cellular  routers hacked",
+        "year": 2016,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering",
+            "https://www.circleofblue.org/2017/water-management/water-utility-cyberattack-rings-hefty-data-charges/"
+        ],
+        "guid": "b17ededb-ce70-4edc-b916-0adb5b41a433",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "Suspicous network traffic data undisclosed location",
+        "year": 2016,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering",
+            "https://us-cert.cisa.gov/sites/default/files/Monitors/ICS-CERT_Monitor_Mar-Apr2016_S508C.pdf"
+        ],
+        "guid": "90f8e0d1-7bc4-4404-b145-36bd73b0981a",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Kemuri Water Company",
+        "year": 2016,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "Data breach digest - Verizon 2016"
+        ],
+        "guid": "13d2b0de-7ee3-457a-b77e-a77a04f3d1fd",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Clark County water hack",
+        "year": 2016,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.reviewjournal.com/local/local-las-vegas/clark-county-water-reclamation-district-computer-system-hacked/"
+        ],
+        "guid": "5858a0a7-8d24-4f94-ad59-55e7c49a6e58",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Industroyer/CRASHOVERRIDE Ukraine",
+        "year": 2016,
+        "industry": "Power and Utilities",
+        "sources": [
+            "History of Industrial Control System Cyber Incidents - Idaho National Laboratory",
+            "https://www.dragos.com/wp-content/uploads/CrashOverride-01.pdf"
+        ],
+        "guid": "ef2fc8dc-0d1c-43a4-8b79-54365be5cf1f",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Gaza Cybergang attacks Oil and Gas facilities",
+        "year": 2017,
+        "industry": "Petroleum",
+        "sources": [
+            "Study on the Evaluation of Risks of Cyber-Incidents and on Costs of Preventing Cyber-Incidents in the Energy Sector - Ecofys"
+        ],
+        "guid": "f32f3354-f9ad-4fa5-9330-7d6ecf07f865",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Attack on UK TSO",
+        "year": 2017,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.independent.ie/irish-news/state-sponsored-hackers-targeted-eirgrid-electricity-network-in-devious-attack-36005921.html"
+        ],
+        "guid": "1e52d038-c010-437a-a9b3-6ac8e02e01fc",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "TRITON attack on Saudi Arabian petrochemical plant",
+        "year": 2017,
+        "industry": "Petroleum",
+        "sources": [
+            "https://www.technologyreview.com/2019/03/05/103328/cybersecurity-critical-infrastructure-triton-malware/",
+            "https://collaborate.mitre.org/attackics/index.php/Software/S0013"
+        ],
+        "guid": "298e4a0b-80dd-46b9-a552-a2263f5cb29e",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Dragonfly 2.0 attacks",
+        "year": 2017,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://us-cert.cisa.gov/ncas/alerts/TA18-074A",
+            "https://attack.mitre.org/groups/G0074/"
+        ],
+        "guid": "8d4c80a7-2fdf-4af6-b9f9-ecf60c8d62c7",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Maersk NotPetya attack",
+        "year": 2017,
+        "industry": "Transportation",
+        "sources": [
+            "History of Industrial Control System Cyber Incidents - Idaho National Laboratory",
+            "https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/"
+        ],
+        "guid": "9e2e89b4-6ab8-4689-9c6e-31860725eab7",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Unrecognised virus in an ECDIS delays sailing",
+        "year": 2018,
+        "industry": "Transportation",
+        "sources": [
+            "The Guidelines on Cyber Security Onboard Ships v3"
+        ],
+        "guid": "20247702-306f-4b7b-9707-c5c50ef142a0",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Crypto miner European water utility company",
+        "year": 2018,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering",
+            "https://radiflow.com/case-studies/detection-of-a-crypto-mining-malware-attack-at-a-water-utility/"
+        ],
+        "guid": "13145eb1-55c2-4459-9df8-586fbc99aadb",
+        "attackType": "Untargeted Attack"
+    },
+    {
+        "name": "COSCO ransomware attack",
+        "year": 2018,
+        "industry": "Transportation",
+        "sources": [
+            "https://securityaffairs.co/wordpress/74941/malware/cosco-ransomware-attack-followup.html"
+        ],
+        "guid": "875da996-29d2-4160-8bcc-2b0f4bb90394",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Onslow Water and Sewer Authority",
+        "year": 2018,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering"
+        ],
+        "guid": "49521a61-e25d-4aeb-9425-337d35163d72",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Main application server infected by ransomware",
+        "year": 2018,
+        "industry": "Transportation",
+        "sources": [
+            "The Guidelines on Cyber Security Onboard Ships v3"
+        ],
+        "guid": "6825fde5-65d9-434e-b196-65e01cd18fb4",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "India power grid attacks",
+        "year": 2019,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.livemint.com/industry/energy/how-cyber-attacks-are-increasing-in-india-s-power-sector-1568107532851.html"
+        ],
+        "guid": "336106f4-408d-4e15-b0aa-e12968431f34",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Norsk Hydro ransomware",
+        "year": 2019,
+        "industry": "Metals",
+        "sources": [
+            "https://news.microsoft.com/transform/hackers-hit-norsk-hydro-ransomware-company-responded-transparency/",
+            "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/what-you-need-to-know-about-the-lockergoga-ransomware",
+            "https://attack.mitre.org/software/S0372/"
+        ],
+        "guid": "fdfe04b5-8595-4abe-b717-fd90e2029356",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Cyber attack on U.S. Power grid networks",
+        "year": 2019,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.eenews.net/stories/1061111289",
+            "https://www.eenews.net/assets/2019/09/06/document_ew_02.pdf"
+        ],
+        "guid": "0187d507-5918-4333-9ec4-a91bd1f7ac5c",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Riviera Beach Water Utility ransomware",
+        "year": 2019,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering"
+        ],
+        "guid": "b3ac3b12-8851-4ed6-a626-d4b5a5cc749b",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Ransomware hits Johannesburg electricity supply",
+        "year": 2019,
+        "industry": "Power and Utilities",
+        "sources": [
+            "https://www.bbc.com/news/technology-49125853"
+        ],
+        "guid": "4e7382c8-0055-4fd5-b417-4fa5b8f4b6ca",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "US coast guard Ryuk attack",
+        "year": 2020,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.pcrisk.com/internet-threat-news/16680-us-coast-guard-announces-it-suffered-a-ryuk-infection",
+            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/MSIB/2019/MSIB_10_19.pdf",
+            "https://collaborate.mitre.org/attackics/index.php/Software/S0011"
+        ],
+        "guid": "d5439759-bc8e-4048-84d1-26a7f14cc8e1",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Americold cyber attack",
+        "year": 2020,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.bleepingcomputer.com/news/security/cold-storage-giant-americold-hit-by-cyberattack-services-impacted/"
+        ],
+        "guid": "3827c5e2-886e-4d5e-b74a-6a03e061659c",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Natural gas compression facitlity ransomware ",
+        "year": 2020,
+        "industry": "Petroleum",
+        "sources": [
+            "https://us-cert.cisa.gov/ncas/alerts/aa20-049a"
+        ],
+        "guid": "4e2d86ed-0000-4c9b-9969-fae60ddfd2ea",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Honda EKANS ransomware attack",
+        "year": 2020,
+        "industry": "Automotive",
+        "sources": [
+            "https://www.cpomagazine.com/cyber-security/honda-ransomware-attack-a-lesson-in-segmentation/",
+            "https://www.darktrace.com/en/blog/what-the-ekans-ransomware-attack-reveals-about-the-future-of-ot-cyber-attacks/",
+            "https://www.bbc.com/news/technology-52982427"
+        ],
+        "guid": "f3e5f21c-de13-4dc7-be9e-8c797f3566c6",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Cyber attack on Israels water system",
+        "year": 2020,
+        "industry": "Water/Waste Water",
+        "sources": [
+            "https://www.zdnet.com/article/two-more-cyber-attacks-hit-israels-water-system/"
+        ],
+        "guid": "e24ac06d-90b7-4560-83a8-19479e65075d",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Brno hospital cyber attack",
+        "year": 2020,
+        "industry": "Pharmaceutical",
+        "sources": [
+            "https://www.zdnet.com/article/czech-hospital-hit-by-cyber-attack-while-in-the-midst-of-a-covid-19-outbreak/"
+        ],
+        "guid": "c5c38619-864e-4c04-8479-3ccb9c799a1d",
+        "attackType": "Targeted Attack"
+    },
+    {
+        "name": "Lion Brewery ransomware attack",
+        "year": 2020,
+        "industry": "Food & Beverage",
+        "sources": [
+            "https://www.zdnet.com/article/lion-gets-breweries-up-and-running-following-ransomware-attack/"
+        ],
+        "guid": "4d38232e-5f55-4bca-ad4e-df655c4f509e",
+        "attackType": "Unknown"
+    },
+    {
+        "name": "Port Shahid Rajaee cyber attack",
+        "year": 2020,
+        "industry": "Transportation",
+        "sources": [
+            "https://www.reuters.com/article/us-mideast-iran-israel-cyber/israel-linked-to-cyberattack-on-iranian-port-washington-post-idINKBN22U363?edition-redirect=in"
+        ],
+        "guid": "d6de001d-54c4-4787-9cee-b4265c6a807e",
+        "attackType": "Targeted Attack"
+    }
+]
