@@ -28,17 +28,44 @@
 	"hideDisabled": false,
 	"techniques": [
 		{
-			"techniqueID": "T0874",
-			"tactic": "persistence-ics",
-			"color": "",
+			"techniqueID": "T0800",
+			"tactic": "inhibit-response-function",
+			"color": "#e60d0d",
 			"comment": "",
-			"enabled": false,
+			"enabled": true,
 			"metadata": [],
 			"showSubtechniques": false
 		},
 		{
-			"techniqueID": "T0863",
-			"tactic": "execution-ics",
+			"techniqueID": "T0802",
+			"tactic": "collection-ics",
+			"color": "#e60d0d",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0806",
+			"tactic": "impair-process-control",
+			"color": "#e60d0d",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0879",
+			"tactic": "impact-ics",
+			"color": "#e60d0d",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0818",
+			"tactic": "initial-access-ics",
 			"color": "",
 			"comment": "",
 			"enabled": false,

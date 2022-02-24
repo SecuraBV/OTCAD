@@ -63,12 +63,14 @@ def parseIncidents(jsonFile: str, attackFolder: str):
     risidataFile.close()
 
     #Parse ATT&CK matrix
+    incidentsToRemove = []
     for incident in incidents:
         incident.mitre = FillMitre(attackFolder, incident.guid)
 
         if not incident.mitre:
-            incidents.remove(incident)
+            incidentsToRemove.append(incident)
 
+    incidents = [i for i in incidents if i not in incidentsToRemove]
     #Save raw incidents
     with open("cache.blob", "wb") as f:
         pickle.dump(time.ctime(path.getmtime(jsonFile)), f)

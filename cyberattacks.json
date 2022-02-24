@@ -698,16 +698,6 @@
         "attackType": "Untargeted Attack"
     },
     {
-        "name": "Energy Company Virus Attack",
-        "year": 2009,
-        "industry": "Power and Utilities",
-        "sources": [
-            "https://www.zdnet.com/article/virus-hits-integral-energy-desktops/"
-        ],
-        "guid": "80021b34-470d-4f06-8e38-edbb9fb38167",
-        "attackType": "Unknown"
-    },
-    {
         "name": "Computer Virus Strikes Two Scottish Hospitals",
         "year": 2009,
         "industry": "Other",
@@ -869,16 +859,6 @@
         "attackType": "Unknown"
     },
     {
-        "name": "Process Control Network Infected with a Virus",
-        "year": 2012,
-        "industry": "Petroleum",
-        "sources": [
-            "https://www.risidata.com/Database/Detail/process_control_network_infected_with_a_virus"
-        ],
-        "guid": "1d920659-c1e3-48cd-b53d-eb1afb47cde6",
-        "attackType": "Unknown"
-    },
-    {
         "name": "Gas Company Virus Infection",
         "year": 2012,
         "industry": "Petroleum",
@@ -887,16 +867,6 @@
         ],
         "guid": "b6e34ee4-2493-4835-8e67-22cfe596035e",
         "attackType": "Unknown"
-    },
-    {
-        "name": "Telvent Canada Firewall Breach",
-        "year": 2012,
-        "industry": "General Manufacturing",
-        "sources": [
-            "https://krebsonsecurity.com/2012/09/chinese-hackers-blamed-for-intrusion-at-energy-industry-giant-telvent/"
-        ],
-        "guid": "dde1b79c-ea6e-4c74-89fd-8151b849d847",
-        "attackType": "Targeted Attack"
     },
     {
         "name": "Iranian Oil Terminal offline after malware attack",
@@ -1148,16 +1118,6 @@
         "attackType": "Targeted Attack"
     },
     {
-        "name": "Attack on UK TSO",
-        "year": 2017,
-        "industry": "Power and Utilities",
-        "sources": [
-            "https://www.independent.ie/irish-news/state-sponsored-hackers-targeted-eirgrid-electricity-network-in-devious-attack-36005921.html"
-        ],
-        "guid": "1e52d038-c010-437a-a9b3-6ac8e02e01fc",
-        "attackType": "Targeted Attack"
-    },
-    {
         "name": "TRITON attack on Saudi Arabian petrochemical plant",
         "year": 2017,
         "industry": "Petroleum",
@@ -1240,16 +1200,6 @@
         ],
         "guid": "6825fde5-65d9-434e-b196-65e01cd18fb4",
         "attackType": "Unknown"
-    },
-    {
-        "name": "India power grid attacks",
-        "year": 2019,
-        "industry": "Power and Utilities",
-        "sources": [
-            "https://www.livemint.com/industry/energy/how-cyber-attacks-are-increasing-in-india-s-power-sector-1568107532851.html"
-        ],
-        "guid": "336106f4-408d-4e15-b0aa-e12968431f34",
-        "attackType": "Targeted Attack"
     },
     {
         "name": "Norsk Hydro ransomware",

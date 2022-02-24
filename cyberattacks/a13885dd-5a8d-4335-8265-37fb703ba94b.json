@@ -28,26 +28,62 @@
 	"hideDisabled": false,
 	"techniques": [
 		{
-			"techniqueID": "T0800",
+			"techniqueID": "T0814",
 			"tactic": "inhibit-response-function",
-			"color": "#e60d0d",
+			"color": "",
 			"comment": "",
-			"enabled": true,
+			"enabled": false,
 			"metadata": [],
 			"showSubtechniques": false
 		},
 		{
-			"techniqueID": "T0806",
-			"tactic": "impair-process-control",
-			"color": "#e60d0d",
+			"techniqueID": "T0874",
+			"tactic": "persistence-ics",
+			"color": "",
 			"comment": "",
-			"enabled": true,
+			"enabled": false,
 			"metadata": [],
 			"showSubtechniques": false
 		},
 		{
-			"techniqueID": "T0882",
+			"techniqueID": "T0826",
 			"tactic": "impact-ics",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0849",
+			"tactic": "evasion-ics",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0873",
+			"tactic": "execution-ics",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0869",
+			"tactic": "command-and-control-ics",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0859",
+			"tactic": "lateral-movement-ics",
 			"color": "",
 			"comment": "",
 			"enabled": false,
@@ -68,6 +104,6 @@
 	"metadata": [],
 	"showTacticRowBackground": false,
 	"tacticRowBackground": "#dddddd",
-	"selectTechniquesAcrossTactics": true,
+	"selectTechniquesAcrossTactics": false,
 	"selectSubtechniquesWithParent": false
 }
