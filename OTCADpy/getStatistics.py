@@ -418,8 +418,8 @@ def SaveToYearsXLSX(matrix, industries, attackers, name: str, years: list[int]):
 ########
 if __name__ == "__main__":
 
-    jsonFile = "/Users/stash/Documents/Projects/OTCAD/cyberattacks.json"
-    attackFolder = "/Users/stash/Documents/Projects/OTCAD/cyberattacks/"
+    jsonFile = "../cyberattacks.json"
+    attackFolder = "../cyberattacks/"
     outputType = "total"
     outputName = "all attacks"
 
