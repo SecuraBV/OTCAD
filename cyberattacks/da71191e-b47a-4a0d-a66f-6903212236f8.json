@@ -2,8 +2,8 @@
 	"name": "layer",
 	"versions": {
 		"attack": "8",
-		"navigator": "4.2",
-		"layer": "4.1"
+		"navigator": "4.5.5",
+		"layer": "4.3"
 	},
 	"domain": "ics-attack",
 	"description": "",
@@ -22,8 +22,11 @@
 	"sorting": 0,
 	"layout": {
 		"layout": "side",
+		"aggregateFunction": "average",
 		"showID": false,
-		"showName": true
+		"showName": true,
+		"showAggregateScores": false,
+		"countUnscored": false
 	},
 	"hideDisabled": false,
 	"techniques": [
@@ -34,6 +37,7 @@
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -43,6 +47,7 @@
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -52,6 +57,7 @@
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -61,6 +67,7 @@
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -70,6 +77,7 @@
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -79,6 +87,7 @@
 			"comment": "",
 			"enabled": false,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -88,15 +97,7 @@
 			"comment": "",
 			"enabled": false,
 			"metadata": [],
-			"showSubtechniques": false
-		},
-		{
-			"techniqueID": "T0810",
-			"tactic": "initial-access-ics",
-			"color": "#e60d0d",
-			"comment": "",
-			"enabled": true,
-			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -106,6 +107,7 @@
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -115,6 +117,7 @@
 			"comment": "",
 			"enabled": false,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -124,6 +127,7 @@
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -133,6 +137,7 @@
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		},
 		{
@@ -142,20 +147,32 @@
 			"comment": "",
 			"enabled": false,
 			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0822",
+			"tactic": "initial-access-ics",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
 			"showSubtechniques": false
 		}
 	],
 	"gradient": {
 		"colors": [
-			"#ff6666",
-			"#ffe766",
-			"#8ec843"
+			"#ff6666ff",
+			"#ffe766ff",
+			"#8ec843ff"
 		],
 		"minValue": 0,
 		"maxValue": 100
 	},
 	"legendItems": [],
 	"metadata": [],
+	"links": [],
 	"showTacticRowBackground": false,
 	"tacticRowBackground": "#dddddd",
 	"selectTechniquesAcrossTactics": false,

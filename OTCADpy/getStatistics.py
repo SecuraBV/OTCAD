@@ -16,7 +16,7 @@ def FilterIncidents(incidents: list[Incident]):
     filtered = incidents
 
     #Example:
-    #filtered = IncludeThreshold(filtered, 1)
+    filtered = CompleteOnly(filtered)
     #filtered = SpecificAttackerType(filtered, "Targeted Attack")
 
     return filtered
@@ -417,19 +417,11 @@ def SaveToYearsXLSX(matrix, industries, attackers, name: str, years: list[int]):
 # MAIN #
 ########
 if __name__ == "__main__":
-    #Command line parsing
-    if len(sys.argv) < 4:
-        print("First argument: path to cyber attacks json file.")
-        print("Second argument: path to cyber attacks folder.")
-        print("Third argument: cyber attacks per year [year] or in total [total].")
-        print("Fourth argument: output name.")
-        print(f"For example: python3 getStatistics.py \"..\\cyberattacks.json\" \"..\\cyberattacks\" total \"all attacks\"")
-        quit()
 
-    jsonFile = sys.argv[1]
-    attackFolder = sys.argv[2]
-    outputType = sys.argv[3]
-    outputName = sys.argv[4]
+    jsonFile = "/Users/stash/Documents/Projects/OTCAD/cyberattacks.json"
+    attackFolder = "/Users/stash/Documents/Projects/OTCAD/cyberattacks/"
+    outputType = "total"
+    outputName = "all attacks"
 
     if not path.isfile(jsonFile):
         print("The provided json could not be found, please confirm that you entered the file path correctly.")

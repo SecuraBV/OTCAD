@@ -612,7 +612,8 @@
         "year": 2008,
         "industry": "Other",
         "sources": [
-            "https://www.networkworld.com/article/2261723/nhs-worm-infection-was--entirely-avoidable---says-review.amp.html"
+            "https://www.networkworld.com/article/2261723/nhs-worm-infection-was--entirely-avoidable---says-review.amp.html",
+            "https://en.wikipedia.org/wiki/Mydoom"
         ],
         "guid": "f9768ff1-edd0-48b3-b81c-0bbba50e7b95",
         "attackType": "Untargeted Attack"
@@ -849,16 +850,6 @@
         "attackType": "Untargeted Attack"
     },
     {
-        "name": "U. S. Power Plant Infected With Malware",
-        "year": 2012,
-        "industry": "Power and Utilities",
-        "sources": [
-            "https://www.risidata.com/Database/Detail/u._s._power_plant_infected_with_malware"
-        ],
-        "guid": "2fd756e5-651c-4082-8695-3adcf4646e2e",
-        "attackType": "Unknown"
-    },
-    {
         "name": "Gas Company Virus Infection",
         "year": 2012,
         "industry": "Petroleum",
@@ -1039,7 +1030,8 @@
         "year": 2016,
         "industry": "Power and Utilities",
         "sources": [
-            "Study on the Evaluation of Risks of Cyber-Incidents and on Costs of Preventing Cyber-Incidents in the Energy Sector - Ecofys"
+            "Study on the Evaluation of Risks of Cyber-Incidents and on Costs of Preventing Cyber-Incidents in the Energy Sector - Ecofys",
+            "https://www.computerworld.com/article/3026609/no-israels-power-grid-wasnt-hacked-but-ransomware-hit-israels-electric-authority.html"
         ],
         "guid": "73d78991-1676-42a0-a2b5-fc67dfeb45f2",
         "attackType": "Targeted Attack"
